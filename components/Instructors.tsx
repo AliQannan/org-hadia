@@ -5,7 +5,7 @@ import { TeacherProfile } from '../types';
 const instructors: TeacherProfile[] = [
   {
     name: "م. علي قنن",
-    title: "المهندس والأستاذ القدير",
+    title: "المهندس والأستاذ القدير ",
     subjects: ["الرياضيات (علمي/أدبي)"],
     image: "https://picsum.photos/400/400?random=1", 
     description: "خبرة واسعة في تبسيط المفاهيم الرياضية المعقدة وتأهيل الطلاب للحصول على العلامات الكاملة."
